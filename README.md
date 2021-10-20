@@ -5,4 +5,4 @@ Hi Humans!
 
 Rohat here.
 
-Nice to be here with you, community!
+Nice to be here!
