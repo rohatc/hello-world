@@ -5,4 +5,5 @@ Hi Humans!
 
 Rohat here.
 
-Nice to be here with you, community!
+Github is a good place.
+
